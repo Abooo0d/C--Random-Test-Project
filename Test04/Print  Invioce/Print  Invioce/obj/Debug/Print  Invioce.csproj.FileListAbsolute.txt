@@ -1,0 +1,9 @@
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Print  Invioce\Print  Invioce\bin\Debug\Print  Invioce.exe.config
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Print  Invioce\Print  Invioce\bin\Debug\Print  Invioce.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Print  Invioce\Print  Invioce\bin\Debug\Print  Invioce.pdb
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Print  Invioce\Print  Invioce\obj\Debug\Print  Invioce.csprojResolveAssemblyReference.cache
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Print  Invioce\Print  Invioce\obj\Debug\Print__Invioce.Form1.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Print  Invioce\Print  Invioce\obj\Debug\Print__Invioce.Properties.Resources.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Print  Invioce\Print  Invioce\obj\Debug\Print  Invioce.csproj.GenerateResource.Cache
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Print  Invioce\Print  Invioce\obj\Debug\Print  Invioce.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Print  Invioce\Print  Invioce\obj\Debug\Print  Invioce.pdb

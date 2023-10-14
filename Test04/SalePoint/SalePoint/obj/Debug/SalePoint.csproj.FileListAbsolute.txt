@@ -1,0 +1,15 @@
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\SalePoint\SalePoint\bin\Debug\SalePoint.exe.config
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\SalePoint\SalePoint\bin\Debug\SalePoint.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\SalePoint\SalePoint\bin\Debug\SalePoint.pdb
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\SalePoint\SalePoint\obj\Debug\SalePoint.csprojResolveAssemblyReference.cache
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\SalePoint\SalePoint\obj\Debug\SalePoint.MainForm.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\SalePoint\SalePoint\obj\Debug\SalePoint.Properties.Resources.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\SalePoint\SalePoint\obj\Debug\SalePoint.csproj.GenerateResource.Cache
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\SalePoint\SalePoint\obj\Debug\SalePoint.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\SalePoint\SalePoint\obj\Debug\SalePoint.pdb
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\SalePoint\SalePoint\obj\Debug\SalePoint.SalePointForm.resources
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\SalePoint\SalePoint\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\SalePoint\SalePoint\bin\Debug\Sales.mdf
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\SalePoint\SalePoint\bin\Debug\Sales_log.ldf
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\SalePoint\SalePoint\obj\Debug\SalePoint.StorageForm.resources
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\SalePoint\SalePoint\obj\Debug\TestToolsOnForms.TextBox.resources

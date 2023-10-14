@@ -1,0 +1,9 @@
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\pichure box\pichure box\bin\Debug\pichure box.exe.config
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\pichure box\pichure box\bin\Debug\pichure box.exe
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\pichure box\pichure box\bin\Debug\pichure box.pdb
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\pichure box\pichure box\obj\Debug\pichure box.csprojResolveAssemblyReference.cache
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\pichure box\pichure box\obj\Debug\pichure_box.Form1.resources
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\pichure box\pichure box\obj\Debug\pichure_box.Properties.Resources.resources
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\pichure box\pichure box\obj\Debug\pichure box.csproj.GenerateResource.Cache
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\pichure box\pichure box\obj\Debug\pichure box.exe
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\pichure box\pichure box\obj\Debug\pichure box.pdb

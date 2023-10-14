@@ -1,0 +1,9 @@
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Out Of The Box\Out Of The Box\bin\Debug\Out Of The Box.exe.config
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Out Of The Box\Out Of The Box\bin\Debug\Out Of The Box.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Out Of The Box\Out Of The Box\bin\Debug\Out Of The Box.pdb
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Out Of The Box\Out Of The Box\obj\Debug\Out Of The Box.csprojResolveAssemblyReference.cache
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Out Of The Box\Out Of The Box\obj\Debug\Out_Of_The_Box.Form1.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Out Of The Box\Out Of The Box\obj\Debug\Out_Of_The_Box.Properties.Resources.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Out Of The Box\Out Of The Box\obj\Debug\Out Of The Box.csproj.GenerateResource.Cache
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Out Of The Box\Out Of The Box\obj\Debug\Out Of The Box.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Out Of The Box\Out Of The Box\obj\Debug\Out Of The Box.pdb

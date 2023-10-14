@@ -1,0 +1,13 @@
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\SQL V2\SQL V2\bin\Debug\SQL V2.exe.config
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\SQL V2\SQL V2\bin\Debug\SQL V2.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\SQL V2\SQL V2\bin\Debug\SQL V2.pdb
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\SQL V2\SQL V2\obj\Debug\SQL V2.csprojResolveAssemblyReference.cache
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\SQL V2\SQL V2\obj\Debug\SQL_V2.Form1.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\SQL V2\SQL V2\obj\Debug\SQL_V2.Form2.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\SQL V2\SQL V2\obj\Debug\SQL_V2.Form3.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\SQL V2\SQL V2\obj\Debug\SQL_V2.Form4.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\SQL V2\SQL V2\obj\Debug\SQL_V2.Form5.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\SQL V2\SQL V2\obj\Debug\SQL_V2.Properties.Resources.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\SQL V2\SQL V2\obj\Debug\SQL V2.csproj.GenerateResource.Cache
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\SQL V2\SQL V2\obj\Debug\SQL V2.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\SQL V2\SQL V2\obj\Debug\SQL V2.pdb
