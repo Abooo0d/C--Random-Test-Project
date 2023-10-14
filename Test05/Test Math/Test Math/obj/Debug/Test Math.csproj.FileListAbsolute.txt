@@ -1,0 +1,9 @@
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Test Math\Test Math\bin\Debug\Test Math.exe.config
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Test Math\Test Math\obj\Debug\Test Math.csprojResolveAssemblyReference.cache
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Test Math\Test Math\obj\Debug\Test_Math.Form1.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Test Math\Test Math\obj\Debug\Test_Math.Properties.Resources.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Test Math\Test Math\obj\Debug\Test Math.csproj.GenerateResource.Cache
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Test Math\Test Math\bin\Debug\Test Math.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Test Math\Test Math\bin\Debug\Test Math.pdb
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Test Math\Test Math\obj\Debug\Test Math.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Test Math\Test Math\obj\Debug\Test Math.pdb

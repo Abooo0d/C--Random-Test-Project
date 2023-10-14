@@ -1,0 +1,8 @@
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Work V2\Work V2\bin\Debug\Work V2.exe.config
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Work V2\Work V2\bin\Debug\Work V2.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Work V2\Work V2\bin\Debug\Work V2.pdb
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Work V2\Work V2\obj\Debug\Work_V2.MainForm.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Work V2\Work V2\obj\Debug\Work_V2.Properties.Resources.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Work V2\Work V2\obj\Debug\Work V2.csproj.GenerateResource.Cache
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Work V2\Work V2\obj\Debug\Work V2.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Work V2\Work V2\obj\Debug\Work V2.pdb

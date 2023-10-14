@@ -1,0 +1,14 @@
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\work\work\bin\Release\work.exe.config
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\work\work\bin\Release\work.exe
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\work\work\bin\Release\work.pdb
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\work\work\obj\Release\work.csprojResolveAssemblyReference.cache
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\work\work\obj\Release\work.Form1.resources
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\work\work\obj\Release\work.Form2.resources
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\work\work\obj\Release\work.Form3.resources
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\work\work\obj\Release\work.Form4.resources
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\work\work\obj\Release\work.Properties.Resources.resources
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\work\work\obj\Release\work.csproj.GenerateResource.Cache
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\work\work\obj\Release\work.exe
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\work\work\obj\Release\work.pdb
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\work\work\bin\Release\Work1.mdf
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\work\work\bin\Release\Work1_log.ldf

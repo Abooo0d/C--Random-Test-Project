@@ -1,0 +1,1 @@
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Tricks  For ComboBox And TextBox\Tricks  For ComboBox And TextBox\bin\Debug\Tricks  For ComboBox And TextBox.exe.config

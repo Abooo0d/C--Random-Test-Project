@@ -1,0 +1,9 @@
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\test Color Dialog\test Color Dialog\bin\Debug\test Color Dialog.exe.config
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\test Color Dialog\test Color Dialog\bin\Debug\test Color Dialog.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\test Color Dialog\test Color Dialog\bin\Debug\test Color Dialog.pdb
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\test Color Dialog\test Color Dialog\obj\Debug\test Color Dialog.csprojResolveAssemblyReference.cache
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\test Color Dialog\test Color Dialog\obj\Debug\test_Color_Dialog.Form1.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\test Color Dialog\test Color Dialog\obj\Debug\test_Color_Dialog.Properties.Resources.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\test Color Dialog\test Color Dialog\obj\Debug\test Color Dialog.csproj.GenerateResource.Cache
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\test Color Dialog\test Color Dialog\obj\Debug\test Color Dialog.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\test Color Dialog\test Color Dialog\obj\Debug\test Color Dialog.pdb

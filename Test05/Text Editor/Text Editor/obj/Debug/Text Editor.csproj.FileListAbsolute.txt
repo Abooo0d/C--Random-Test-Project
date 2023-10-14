@@ -1,0 +1,9 @@
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Text Editor\Text Editor\bin\Debug\Text Editor.exe.config
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Text Editor\Text Editor\bin\Debug\Text Editor.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Text Editor\Text Editor\bin\Debug\Text Editor.pdb
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Text Editor\Text Editor\obj\Debug\Text Editor.csprojResolveAssemblyReference.cache
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Text Editor\Text Editor\obj\Debug\Text_Editor.Form1.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Text Editor\Text Editor\obj\Debug\Text_Editor.Properties.Resources.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Text Editor\Text Editor\obj\Debug\Text Editor.csproj.GenerateResource.Cache
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Text Editor\Text Editor\obj\Debug\Text Editor.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Text Editor\Text Editor\obj\Debug\Text Editor.pdb
