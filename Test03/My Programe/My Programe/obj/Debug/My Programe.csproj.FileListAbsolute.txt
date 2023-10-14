@@ -1,0 +1,22 @@
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\My Programe\My Programe\bin\Debug\My Programe.exe.config
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\My Programe\My Programe\bin\Debug\My Programe.exe
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\My Programe\My Programe\bin\Debug\My Programe.pdb
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\My Programe\My Programe\obj\Debug\My Programe.csprojResolveAssemblyReference.cache
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\My Programe\My Programe\obj\Debug\My_Programe.Form1.resources
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\My Programe\My Programe\obj\Debug\My_Programe.Properties.Resources.resources
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\My Programe\My Programe\obj\Debug\My Programe.csproj.GenerateResource.Cache
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\My Programe\My Programe\obj\Debug\My Programe.exe
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\My Programe\My Programe\obj\Debug\My Programe.pdb
+D:\تنصيب برامج\my progect\New\My Programe\My Programe\bin\Debug\My Programe.exe.config
+D:\تنصيب برامج\my progect\New\My Programe\My Programe\obj\Debug\My Programe.exe
+D:\تنصيب برامج\my progect\New\My Programe\My Programe\obj\Debug\My Programe.pdb
+D:\تنصيب برامج\my progect\New\My Programe\My Programe\bin\Debug\My Programe.exe
+D:\تنصيب برامج\my progect\New\My Programe\My Programe\bin\Debug\My Programe.pdb
+D:\تنصيب برامج\my progect\New\My Programe\My Programe\obj\Debug\My Programe.csprojResolveAssemblyReference.cache
+D:\تنصيب برامج\my progect\New\My Programe\My Programe\obj\Debug\My_Programe.Form1.resources
+D:\تنصيب برامج\my progect\New\My Programe\My Programe\obj\Debug\My_Programe.Properties.Resources.resources
+D:\تنصيب برامج\my progect\New\My Programe\My Programe\obj\Debug\My Programe.csproj.GenerateResource.Cache
+D:\تنصيب برامج\my progect\New\My Programe\My Programe\obj\Debug\My_Programe.Form2.resources
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\My Programe\My Programe\bin\Debug\My Programe.exe.config
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\My Programe\My Programe\obj\Debug\My Programe.exe
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\My Programe\My Programe\obj\Debug\My Programe.pdb
