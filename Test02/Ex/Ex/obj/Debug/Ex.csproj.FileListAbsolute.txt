@@ -1,0 +1,6 @@
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\Ex\Ex\bin\Debug\Ex.exe.config
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\Ex\Ex\obj\Debug\Ex.exe
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\Ex\Ex\obj\Debug\Ex.pdb
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\Ex\Ex\bin\Debug\Ex.exe
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\Ex\Ex\bin\Debug\Ex.pdb
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\Ex\Ex\obj\Debug\Ex.csprojResolveAssemblyReference.cache

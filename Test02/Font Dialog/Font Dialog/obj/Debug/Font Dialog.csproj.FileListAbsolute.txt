@@ -1,0 +1,8 @@
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Font Dialog\Font Dialog\bin\Debug\Font Dialog.exe.config
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Font Dialog\Font Dialog\bin\Debug\Font Dialog.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Font Dialog\Font Dialog\bin\Debug\Font Dialog.pdb
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Font Dialog\Font Dialog\obj\Debug\Font_Dialog.Form1.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Font Dialog\Font Dialog\obj\Debug\Font_Dialog.Properties.Resources.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Font Dialog\Font Dialog\obj\Debug\Font Dialog.csproj.GenerateResource.Cache
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Font Dialog\Font Dialog\obj\Debug\Font Dialog.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Font Dialog\Font Dialog\obj\Debug\Font Dialog.pdb

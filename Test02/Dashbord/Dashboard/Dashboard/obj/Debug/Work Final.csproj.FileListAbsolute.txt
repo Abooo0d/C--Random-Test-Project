@@ -1,0 +1,57 @@
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\database.mdf
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\database_log.ldf
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\CircularProgressBar.dll
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\WinFormAnimation.dll
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\CircularProgressBar.xml
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\WinFormAnimation.xml
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Work Final.csprojResolveAssemblyReference.cache
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.Add.resources
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.Edite.resources
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.Home.resources
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.Login.resources
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.MainForm.resources
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Work Final.csproj.GenerateResource.Cache
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Dashbord\Dashboard\Dashboard\bin\Debug\database.mdf
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Dashbord\Dashboard\Dashboard\bin\Debug\database_log.ldf
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Dashbord\Dashboard\Dashboard\bin\Debug\CircularProgressBar.dll
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Dashbord\Dashboard\Dashboard\bin\Debug\WinFormAnimation.dll
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Dashbord\Dashboard\Dashboard\bin\Debug\CircularProgressBar.xml
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Dashbord\Dashboard\Dashboard\bin\Debug\WinFormAnimation.xml
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Dashbord\Dashboard\Dashboard\obj\Debug\Dashboard.Add.resources
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Dashbord\Dashboard\Dashboard\obj\Debug\Dashboard.Edite.resources
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Dashbord\Dashboard\Dashboard\obj\Debug\Dashboard.Home.resources
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Dashbord\Dashboard\Dashboard\obj\Debug\Dashboard.Login.resources
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Dashbord\Dashboard\Dashboard\obj\Debug\Dashboard.MainForm.resources
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Dashbord\Dashboard\Dashboard\obj\Debug\Work Final.csproj.GenerateResource.Cache
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Dashbord\Dashboard\Dashboard\bin\Debug\WorkFinal.exe.config
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Dashbord\Dashboard\Dashboard\obj\Debug\WorkFinal.Properties.Resources.resources
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Dashbord\Dashboard\Dashboard\bin\Debug\WorkFinal.exe
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Dashbord\Dashboard\Dashboard\bin\Debug\WorkFinal.pdb
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Dashbord\Dashboard\Dashboard\obj\Debug\WorkFinal.exe
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Dashbord\Dashboard\Dashboard\obj\Debug\WorkFinal.pdb
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Dashbord\Dashboard\Dashboard\obj\Debug\Work Final.csprojResolveAssemblyReference.cache
+I:\Visual Studio Projects\Projects\Dashbord\Dashboard\Dashboard\bin\Debug\WorkFinal.exe.config
+I:\Visual Studio Projects\Projects\Dashbord\Dashboard\Dashboard\obj\Debug\WorkFinal.exe
+I:\Visual Studio Projects\Projects\Dashbord\Dashboard\Dashboard\obj\Debug\WorkFinal.pdb
+I:\Visual Studio Projects\Projects\Dashbord\Dashboard\Dashboard\bin\Debug\database.mdf
+I:\Visual Studio Projects\Projects\Dashbord\Dashboard\Dashboard\bin\Debug\database_log.ldf
+I:\Visual Studio Projects\Projects\Dashbord\Dashboard\Dashboard\bin\Debug\WorkFinal.exe
+I:\Visual Studio Projects\Projects\Dashbord\Dashboard\Dashboard\bin\Debug\WorkFinal.pdb
+I:\Visual Studio Projects\Projects\Dashbord\Dashboard\Dashboard\bin\Debug\CircularProgressBar.dll
+I:\Visual Studio Projects\Projects\Dashbord\Dashboard\Dashboard\bin\Debug\WinFormAnimation.dll
+I:\Visual Studio Projects\Projects\Dashbord\Dashboard\Dashboard\bin\Debug\CircularProgressBar.xml
+I:\Visual Studio Projects\Projects\Dashbord\Dashboard\Dashboard\bin\Debug\WinFormAnimation.xml
+I:\Visual Studio Projects\Projects\Dashbord\Dashboard\Dashboard\obj\Debug\Work Final.csprojResolveAssemblyReference.cache
+I:\Visual Studio Projects\Projects\Dashbord\Dashboard\Dashboard\obj\Debug\Dashboard.Add.resources
+I:\Visual Studio Projects\Projects\Dashbord\Dashboard\Dashboard\obj\Debug\Dashboard.Edite.resources
+I:\Visual Studio Projects\Projects\Dashbord\Dashboard\Dashboard\obj\Debug\Dashboard.Home.resources
+I:\Visual Studio Projects\Projects\Dashbord\Dashboard\Dashboard\obj\Debug\Dashboard.Login.resources
+I:\Visual Studio Projects\Projects\Dashbord\Dashboard\Dashboard\obj\Debug\Dashboard.MainForm.resources
+I:\Visual Studio Projects\Projects\Dashbord\Dashboard\Dashboard\obj\Debug\WorkFinal.Properties.Resources.resources
+I:\Visual Studio Projects\Projects\Dashbord\Dashboard\Dashboard\obj\Debug\Work Final.csproj.GenerateResource.Cache

@@ -1,0 +1,51 @@
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.csprojResolveAssemblyReference.cache
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.Form1.resources
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.Cache
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\bin\Debug\CircularProgressBar.dll
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\bin\Debug\WinFormAnimation.dll
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\bin\Debug\CircularProgressBar.xml
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\bin\Debug\WinFormAnimation.xml
+C:\Users\Saad_Aldeen\Desktop\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\Saad_Aldeen\Desktop\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\Saad_Aldeen\Desktop\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\Saad_Aldeen\Desktop\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\Saad_Aldeen\Desktop\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\Saad_Aldeen\Desktop\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\CircularProgressBar.dll
+C:\Users\Saad_Aldeen\Desktop\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\WinFormAnimation.dll
+C:\Users\Saad_Aldeen\Desktop\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\CircularProgressBar.xml
+C:\Users\Saad_Aldeen\Desktop\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\WinFormAnimation.xml
+C:\Users\Saad_Aldeen\Desktop\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.csprojResolveAssemblyReference.cache
+C:\Users\Saad_Aldeen\Desktop\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\Saad_Aldeen\Desktop\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.Cache
+C:\Users\Saad_Aldeen\Desktop\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.MainForm.resources
+C:\Users\Saad_Aldeen\Desktop\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.Home.resources
+C:\Users\Saad_Aldeen\Desktop\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.Add.resources
+C:\Users\Saad_Aldeen\Desktop\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.Edite.resources
+C:\Users\Saad_Aldeen\Desktop\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.Login.resources
+C:\Users\Saad_Aldeen\Desktop\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\database.mdf
+C:\Users\Saad_Aldeen\Desktop\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\database_log.ldf
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\database.mdf
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\database_log.ldf
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\CircularProgressBar.dll
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\WinFormAnimation.dll
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\CircularProgressBar.xml
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\bin\Debug\WinFormAnimation.xml
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.csprojResolveAssemblyReference.cache
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.Add.resources
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.Edite.resources
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.Home.resources
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.Login.resources
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.MainForm.resources
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Create a Modern Flat UI Design Dashboard in C# 2020 - Part I\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.Cache
