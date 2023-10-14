@@ -1,0 +1,3 @@
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Colors Ex\Colors Ex\bin\Debug\Colors Ex.exe.config
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Colors Ex\Colors Ex\obj\Debug\Colors Ex.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Colors Ex\Colors Ex\obj\Debug\Colors Ex.pdb

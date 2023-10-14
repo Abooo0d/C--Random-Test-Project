@@ -1,0 +1,8 @@
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\ClipBord\ClipBord\bin\Debug\ClipBord.exe.config
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\ClipBord\ClipBord\bin\Debug\ClipBord.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\ClipBord\ClipBord\bin\Debug\ClipBord.pdb
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\ClipBord\ClipBord\obj\Debug\ClipBord.Form1.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\ClipBord\ClipBord\obj\Debug\ClipBord.Properties.Resources.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\ClipBord\ClipBord\obj\Debug\ClipBord.csproj.GenerateResource.Cache
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\ClipBord\ClipBord\obj\Debug\ClipBord.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\ClipBord\ClipBord\obj\Debug\ClipBord.pdb

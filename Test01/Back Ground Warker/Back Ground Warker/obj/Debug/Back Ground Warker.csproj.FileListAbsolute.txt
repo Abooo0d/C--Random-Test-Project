@@ -1,0 +1,9 @@
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Back Ground Warker\Back Ground Warker\bin\Debug\Back Ground Warker.exe.config
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Back Ground Warker\Back Ground Warker\bin\Debug\Back Ground Warker.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Back Ground Warker\Back Ground Warker\bin\Debug\Back Ground Warker.pdb
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Back Ground Warker\Back Ground Warker\obj\Debug\Back Ground Warker.csprojResolveAssemblyReference.cache
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Back Ground Warker\Back Ground Warker\obj\Debug\Back_Ground_Warker.Form1.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Back Ground Warker\Back Ground Warker\obj\Debug\Back_Ground_Warker.Properties.Resources.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Back Ground Warker\Back Ground Warker\obj\Debug\Back Ground Warker.csproj.GenerateResource.Cache
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Back Ground Warker\Back Ground Warker\obj\Debug\Back Ground Warker.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Back Ground Warker\Back Ground Warker\obj\Debug\Back Ground Warker.pdb

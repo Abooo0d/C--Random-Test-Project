@@ -1,0 +1,9 @@
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Color Ex\Color Ex\bin\Debug\Color Ex.exe.config
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Color Ex\Color Ex\bin\Debug\Color Ex.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Color Ex\Color Ex\bin\Debug\Color Ex.pdb
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Color Ex\Color Ex\obj\Debug\Color Ex.csprojResolveAssemblyReference.cache
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Color Ex\Color Ex\obj\Debug\Color_Ex.Form1.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Color Ex\Color Ex\obj\Debug\Color_Ex.Properties.Resources.resources
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Color Ex\Color Ex\obj\Debug\Color Ex.csproj.GenerateResource.Cache
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Color Ex\Color Ex\obj\Debug\Color Ex.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Color Ex\Color Ex\obj\Debug\Color Ex.pdb

@@ -1,0 +1,6 @@
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Boxs\Boxs\bin\Debug\Boxs.exe.config
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Boxs\Boxs\bin\Debug\Boxs.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Boxs\Boxs\bin\Debug\Boxs.pdb
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Boxs\Boxs\obj\Debug\Boxs.csprojResolveAssemblyReference.cache
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Boxs\Boxs\obj\Debug\Boxs.exe
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Boxs\Boxs\obj\Debug\Boxs.pdb

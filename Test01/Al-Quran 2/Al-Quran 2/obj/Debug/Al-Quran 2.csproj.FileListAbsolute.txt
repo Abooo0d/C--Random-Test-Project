@@ -1,0 +1,33 @@
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\Al-Quran 2\Al-Quran 2\bin\Debug\Al-Quran 2.exe.config
+C:\Users\Saad-Aldeen\Documents\Visual Studio 2015\Projects\Al-Quran 2\Al-Quran 2\bin\Debug\Al-Quran 2.exe
+C:\Users\Saad-Aldeen\Documents\Visual Studio 2015\Projects\Al-Quran 2\Al-Quran 2\bin\Debug\Al-Quran 2.pdb
+C:\Users\Saad-Aldeen\Documents\Visual Studio 2015\Projects\Al-Quran 2\Al-Quran 2\obj\Debug\Al-Quran 2.csprojResolveAssemblyReference.cache
+C:\Users\Saad-Aldeen\Documents\Visual Studio 2015\Projects\Al-Quran 2\Al-Quran 2\obj\Debug\Al_Quran_2.Form1.resources
+C:\Users\Saad-Aldeen\Documents\Visual Studio 2015\Projects\Al-Quran 2\Al-Quran 2\obj\Debug\Al_Quran_2.Properties.Resources.resources
+C:\Users\Saad-Aldeen\Documents\Visual Studio 2015\Projects\Al-Quran 2\Al-Quran 2\obj\Debug\Al-Quran 2.csproj.GenerateResource.Cache
+C:\Users\Saad-Aldeen\Documents\Visual Studio 2015\Projects\Al-Quran 2\Al-Quran 2\obj\Debug\Al-Quran 2.exe
+C:\Users\Saad-Aldeen\Documents\Visual Studio 2015\Projects\Al-Quran 2\Al-Quran 2\obj\Debug\Al-Quran 2.pdb
+C:\Users\Saad-Aldeen\documents\visual studio 2015\Projects\Al-Quran 2\Al-Quran 2\obj\Debug\Al_Quran_2.Form2.resources
+C:\Users\Saad-Aldeen\Desktop\my projects\Al-Quran 2\Al-Quran 2\bin\Debug\Al-Quran 2.exe.config
+C:\Users\Saad-Aldeen\Desktop\my projects\Al-Quran 2\Al-Quran 2\obj\Debug\Al-Quran 2.exe
+C:\Users\Saad-Aldeen\Desktop\my projects\Al-Quran 2\Al-Quran 2\obj\Debug\Al-Quran 2.pdb
+D:\تنصيب برامج\my progect\New\Al-Quran 2\Al-Quran 2\bin\Debug\Al-Quran 2.exe.config
+D:\تنصيب برامج\my progect\New\Al-Quran 2\Al-Quran 2\obj\Debug\Al-Quran 2.exe
+D:\تنصيب برامج\my progect\New\Al-Quran 2\Al-Quran 2\obj\Debug\Al-Quran 2.pdb
+D:\تنصيب برامج\my progect\New\Al-Quran 2\Al-Quran 2\bin\Debug\Al-Quran 2.exe
+D:\تنصيب برامج\my progect\New\Al-Quran 2\Al-Quran 2\bin\Debug\Al-Quran 2.pdb
+D:\تنصيب برامج\my progect\New\Al-Quran 2\Al-Quran 2\obj\Debug\Al-Quran 2.csprojResolveAssemblyReference.cache
+D:\تنصيب برامج\my progect\New\Al-Quran 2\Al-Quran 2\obj\Debug\Al_Quran_2.Form1.resources
+D:\تنصيب برامج\my progect\New\Al-Quran 2\Al-Quran 2\obj\Debug\Al_Quran_2.Form2.resources
+D:\تنصيب برامج\my progect\New\Al-Quran 2\Al-Quran 2\obj\Debug\Al_Quran_2.Properties.Resources.resources
+D:\تنصيب برامج\my progect\New\Al-Quran 2\Al-Quran 2\obj\Debug\Al-Quran 2.csproj.GenerateResource.Cache
+C:\Users\Saad-Aldeen\Desktop\my progect\New\Al-Quran 2\Al-Quran 2\bin\Debug\Al-Quran 2.exe.config
+C:\Users\Saad-Aldeen\Desktop\my progect\New\Al-Quran 2\Al-Quran 2\obj\Debug\Al-Quran 2.exe
+C:\Users\Saad-Aldeen\Desktop\my progect\New\Al-Quran 2\Al-Quran 2\obj\Debug\Al-Quran 2.pdb
+C:\Users\Saad-Aldeen\Desktop\my progect\New\Al-Quran 2\Al-Quran 2\bin\Debug\Al-Quran 2.exe
+C:\Users\Saad-Aldeen\Desktop\my progect\New\Al-Quran 2\Al-Quran 2\bin\Debug\Al-Quran 2.pdb
+C:\Users\Saad-Aldeen\Desktop\my progect\New\Al-Quran 2\Al-Quran 2\obj\Debug\Al-Quran 2.csprojResolveAssemblyReference.cache
+C:\Users\Saad-Aldeen\Desktop\my progect\New\Al-Quran 2\Al-Quran 2\obj\Debug\Al_Quran_2.Form1.resources
+C:\Users\Saad-Aldeen\Desktop\my progect\New\Al-Quran 2\Al-Quran 2\obj\Debug\Al_Quran_2.Form2.resources
+C:\Users\Saad-Aldeen\Desktop\my progect\New\Al-Quran 2\Al-Quran 2\obj\Debug\Al_Quran_2.Properties.Resources.resources
+C:\Users\Saad-Aldeen\Desktop\my progect\New\Al-Quran 2\Al-Quran 2\obj\Debug\Al-Quran 2.csproj.GenerateResource.Cache

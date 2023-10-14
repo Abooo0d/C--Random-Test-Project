@@ -1,0 +1,9 @@
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\Al-Quran\Al-Quran\bin\Debug\Al-Quran.exe.config
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\Al-Quran\Al-Quran\bin\Debug\Al-Quran.exe
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\Al-Quran\Al-Quran\bin\Debug\Al-Quran.pdb
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\Al-Quran\Al-Quran\obj\Debug\Al-Quran.csprojResolveAssemblyReference.cache
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\Al-Quran\Al-Quran\obj\Debug\Al_Quran.Properties.Resources.resources
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\Al-Quran\Al-Quran\obj\Debug\Al-Quran.csproj.GenerateResource.Cache
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\Al-Quran\Al-Quran\obj\Debug\Al-Quran.exe
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\Al-Quran\Al-Quran\obj\Debug\Al-Quran.pdb
+C:\Users\Saad-Aldeen\documents\visual studio 2015\Projects\Al-Quran\Al-Quran\obj\Debug\Al_Quran.frm.resources

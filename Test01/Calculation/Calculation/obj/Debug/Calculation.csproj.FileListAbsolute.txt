@@ -1,0 +1,12 @@
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\Calculation\Calculation\bin\Debug\Calculation.exe.config
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\Calculation\Calculation\obj\Debug\Calculation.csprojResolveAssemblyReference.cache
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\Calculation\Calculation\obj\Debug\Calculation.Form1.resources
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\Calculation\Calculation\obj\Debug\Calculation.Properties.Resources.resources
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\Calculation\Calculation\obj\Debug\Calculation.csproj.GenerateResource.Cache
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\Calculation\Calculation\bin\Debug\Calculation.exe
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\Calculation\Calculation\bin\Debug\Calculation.pdb
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\Calculation\Calculation\obj\Debug\Calculation.exe
+c:\users\saad-aldeen\documents\visual studio 2015\Projects\Calculation\Calculation\obj\Debug\Calculation.pdb
+I:\Visual Studio Projects\Projects\Calculation\Calculation\bin\Debug\Calculation.exe.config
+I:\Visual Studio Projects\Projects\Calculation\Calculation\obj\Debug\Calculation.exe
+I:\Visual Studio Projects\Projects\Calculation\Calculation\obj\Debug\Calculation.pdb
